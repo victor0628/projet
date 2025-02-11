@@ -8,3 +8,4 @@ Le Tigre du Bengale est un félin, et la sous-espèce de tigres la plus connue. 
 Le tigre est tres dangereux
 
 il tue beaucoup de monde
+C'est impossible d'en vaincre un a main nue
